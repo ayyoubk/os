@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+}
+header{
+    background-color: #00303f;
+    margin: 0%;
+    height: 110px;
+}
+h1{
+    color: #cae4db;
+}
+header div{
+    display: flex;
+    
+}
+header div h1{
+    margin-top: 0%;
+    margin-left: 10px;
+}
+nav{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 5px;
+}
+.links{
+    color: lavender;
+}
+main{
+    background-color: #cae4db;
+    margin: 0%;
+}
+footer{
+    background-color: #cdac81;
+    height: 50px;
+}
+main div{
+    display: inline-flex;
+
+}
+main iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer p{
+    margin-top: 30px;
+}
